@@ -1,0 +1,4 @@
+{
+    "argv": ["python", "-m", "gpt_image_custom", "-f", "{connection_file}"],
+    "display_name": "GPT Image Custom v1.1.1"
+}
